@@ -1,0 +1,18 @@
+{
+  "name": "nifty",
+  "owner": {
+    "name": "Nifty",
+    "url": "https://getnifty.dev"
+  },
+  "description": "Nifty tools for AI coding agents. Local, no account, no telemetry.",
+  "plugins": [
+    {
+      "name": "nifty-guard",
+      "source": "./plugins/nifty-guard",
+      "description": "Stops your coding agent from installing made-up (hallucinated), lookalike and brand-new npm and PyPI packages. Runs locally, no account.",
+      "version": "0.2.0",
+      "category": "security",
+      "homepage": "https://getnifty.dev/guard"
+    }
+  ]
+}

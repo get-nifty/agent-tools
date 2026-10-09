@@ -1,0 +1,9 @@
+{
+  "name": "nifty-guard",
+  "version": "0.2.0",
+  "description": "Stops your coding agent from installing made-up (hallucinated), lookalike and brand-new npm and PyPI packages. Runs locally, no account.",
+  "author": { "name": "Nifty", "url": "https://getnifty.dev" },
+  "homepage": "https://getnifty.dev/guard",
+  "license": "MIT",
+  "keywords": ["security", "supply-chain", "npm", "pypi", "slopsquatting", "typosquatting", "hooks"]
+}
